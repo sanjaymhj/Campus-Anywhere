@@ -1,0 +1,35 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 9, 2014, 10:45:28 AM
+    Author     : Sanjay
+*/
+
+.progf
+{
+    background:grey;
+}
+#camcon
+{
+	color:#666;
+	border-radius: 6px;
+	width:600px;
+	height:400px;
+	display:block;
+	float:left;
+	margin:5px;
+        background:grey;
+}
+#right-con
+{
+    color:#666;
+	border-radius: 6px;
+	width:370px;
+	height:400px;
+	display:block;
+	float:left;
+	margin:5px;
+}

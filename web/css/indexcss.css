@@ -1,0 +1,152 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 28, 2014, 5:11:45 PM
+    Author     : partha
+*/
+
+
+*
+{
+    margin: 0 auto;
+	
+}
+
+body
+{
+	background: #eeeeee;
+}
+#container
+{
+	height: auto;
+}
+
+#header
+{
+    height: 150px;
+    position: relative;
+	background:url(../images/header_back.png);
+}
+#logo
+{
+	position:absolute;
+    background: url(../images/logo1.png);
+	height:166px;
+	width:130px; 
+	position:absolute; 
+	left:100px; 
+	bottom:0px;
+	
+}
+#name
+{
+    clear: both;
+    position: absolute;
+    height: 100px;
+    float: right;
+    margin-left: 200px;
+    
+}
+#name p
+{
+    font-family: "DHF Happy Birthday Ryan";
+    color:#dddddd;
+    font-size: 50px;
+	padding-left:50px; 
+	line-height: 100px;
+    letter-spacing: 15px;
+}
+
+#login
+{
+    float: right;
+	margin-top:20px;
+	font-family:Arial, Helvetica, sans-serif;
+	line-height:0px;
+}
+#login table
+{
+	padding:0px;
+	margin:0px;
+	border:0px;	
+}
+#login label
+{
+	color:#FFF;
+	font-size:12px;
+	
+}
+
+.log
+{
+    margin-right: 25px;
+    margin-top: 20px;
+}
+#btnlog
+{
+    margin-right: 20px;
+	background-color:#06F;
+	height:20px;
+	width:50px;
+	border:1px #090 solid;border-top:1px #01F solid;
+    border-radius: 1px;
+    font-size: 12px;
+    font-weight: bold;
+	text-align: center; 
+}
+#main
+{
+   
+    position: relative;
+    height: auto;
+    width: 100%;
+    
+}
+
+#navr
+{
+    
+    float: right;
+    
+    width: 650px;
+    
+}
+.lblmain
+{
+
+}
+#navr *
+{
+    margin-bottom: 20px;
+    padding: 10px;
+    
+}
+#navr h1
+{
+    text-align: center;
+    color: darkblue;
+    text-decoration: underline;
+}
+#navl
+{
+    float: left;    
+    
+    width: 650px;
+   
+}
+#navl p
+{
+    text-align: center;
+}
+#navl h1
+{
+    text-align: center;
+    margin-top: 100px;
+}
+#foot
+{
+    clear: both;
+}

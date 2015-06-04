@@ -1,0 +1,27 @@
+
+div
+{
+    
+    border: solid black;
+    margin: 5px;
+}
+
+.rooms
+{
+    border: none;
+}
+
+#header
+{
+    display: inline-block;
+}
+#profon
+{
+    display: inline-block;
+    
+        
+}
+#profile
+{
+    display: inline;
+}
